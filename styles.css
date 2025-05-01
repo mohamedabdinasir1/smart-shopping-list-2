@@ -6,3 +6,10 @@
     --text:    black;
     --error:    red;
   }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: sans-serif; background: var(--bg); color: var(--text);
+  }
+  header {
+    background: var(--primary); color: #fff; padding: 1rem;
+  }
