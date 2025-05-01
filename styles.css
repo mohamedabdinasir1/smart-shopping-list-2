@@ -15,8 +15,11 @@
   }
   header h1 { margin-bottom: 0.5rem; }
   nav a {
-    color: #fff; text-decoration: none; margin-right: 1rem;
+    color: white; text-decoration: none; margin-right: 1rem;
     opacity: 0.8;
   }
   nav a.active,
   nav a:hover { opacity: 1; }
+  main { padding: 1rem; }
+  
+  
