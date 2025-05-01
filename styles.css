@@ -46,7 +46,7 @@
     margin-bottom: 0.25rem; font-size: 0.9rem;
  }
  .item-card button {
-    background: var(--accent); color: #fff; border: none;
+    background: var(--accent); color: white; border: none;
     padding: 0.4rem 0.8rem; border-radius: 4px; cursor: pointer;
     position: absolute; bottom: 1rem; right: 1rem;
   }
@@ -62,3 +62,29 @@
     display: block; margin-bottom: 0.5rem;
     font-size: 0.9rem;
   }
+  .form-section input,
+  .form-section select,
+  .form-section textarea {
+    width: 100%; padding: 0.5rem; margin-top: 0.25rem;
+    border: 1px solid white; border-radius: 4px;
+  }
+  .form-section button {
+    margin-top: 1rem; width: 100%;
+    background: var(--primary); color: white; border: none;
+    padding: 0.6rem; border-radius: 4px; cursor: pointer;
+  }
+  .form-section button:hover { opacity: 0.9; }
+  .error {
+    color: var(--error); font-size: 0.8rem; height: 1em;
+  }
+  
+  /* Clear pantry button */
+  #clear-pantry {
+    display: block; margin: 1rem auto; background: var(--error);
+    color: white; border: none; padding: 0.6rem 1.2rem; border-radius: 4px;
+    cursor: pointer;
+  }
+  #clear-pantry:hover { 
+    opacity: 0.9; 
+}
+  
