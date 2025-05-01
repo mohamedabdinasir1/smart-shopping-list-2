@@ -14,3 +14,12 @@
       <a href="pantry.html">Pantry</a>
     </nav>
   </header>
+  <main>
+    <section id="list-section">
+      <h2>Your Current List</h2>
+      <div id="list-container">
+        <!-- Categories & items will be injected here -->
+      </div>
+      <p id="empty-list" class="placeholder">No items in your list yet.</p>
+    </section>
+  </main>
