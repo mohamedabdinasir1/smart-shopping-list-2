@@ -23,3 +23,6 @@
       <p id="empty-list" class="placeholder">No items in your list yet.</p>
     </section>
   </main>
+  <footer>
+    <p>&copy; 2025 Smart Shopping List</p>
+  </footer>
