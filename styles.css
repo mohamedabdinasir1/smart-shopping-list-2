@@ -87,4 +87,8 @@
   #clear-pantry:hover { 
     opacity: 0.9; 
 }
-  
+  /* Responsive tweaks */
+  @media (max-width: 600px) {
+    header, footer { text-align: center; }
+    nav a { display: block; margin: 0.3rem 0; }
+  }
