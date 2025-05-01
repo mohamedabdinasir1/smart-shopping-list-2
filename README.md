@@ -102,7 +102,7 @@ smart-shopping-list/
 ├── add.html             # Add Item form
 ├── pantry.html          # Pantry/archive view
 ├── styles.css           # Shared CSS styles
-├── app.js               # Shared JavaScript logic
+├── script.js               # Shared JavaScript logic
 ├── README.md            # Project documentation
 ```
 
