@@ -26,3 +26,4 @@
   <footer>
     <p>&copy; 2025 Smart Shopping List</p>
   </footer>
+  <script src="app.js" defer></script>
