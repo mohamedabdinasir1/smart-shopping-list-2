@@ -1,0 +1,8 @@
+:root {
+    --primary:  dodgerblue;
+    --accent:   orange;
+    --bg:       white;
+    --card-bg:  white;
+    --text:    black;
+    --error:    red;
+  }
