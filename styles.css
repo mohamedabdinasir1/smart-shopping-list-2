@@ -11,5 +11,10 @@
     font-family: sans-serif; background: var(--bg); color: var(--text);
   }
   header {
-    background: var(--primary); color: #fff; padding: 1rem;
+    background: var(--primary); color: white; padding: 1rem;
+  }
+  header h1 { margin-bottom: 0.5rem; }
+  nav a {
+    color: #fff; text-decoration: none; margin-right: 1rem;
+    opacity: 0.8;
   }
