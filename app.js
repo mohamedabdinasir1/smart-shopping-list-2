@@ -7,6 +7,7 @@
 </head>
 <body>
   <header>
+  <h1>Smart Shopping List</h1>
     <nav>
       <a href="index.html" class="active">List</a>
       <a href="add.html">Add Item</a>
