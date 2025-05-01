@@ -25,5 +25,9 @@
     text-align: center; padding: 1rem; font-size: 0.9rem; color: var(--text);
     border-top: 1px solid white; margin-top: 2rem;
   }
+   /* Placeholder text */
+   .placeholder {
+    color: var(--text); opacity: 0.6; text-align: center; margin-top: 2rem;
+  }
   
   
