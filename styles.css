@@ -58,4 +58,7 @@
     background: var(--card-bg); padding: 1rem; border-radius: 6px;
     max-width: 400px; margin: 0 auto;
   }
-  
+  .form-section label {
+    display: block; margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+  }
