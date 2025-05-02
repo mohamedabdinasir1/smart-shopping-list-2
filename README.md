@@ -151,4 +151,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ## link
 https://github.com/mohamedabdinasir1/smart-shopping-list-2
+## vercel link
 https://vercel.com/mohameds-projects-cef29b89/smart-shopping-list-2
